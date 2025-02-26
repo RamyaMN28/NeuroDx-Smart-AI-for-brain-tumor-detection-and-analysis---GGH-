@@ -114,10 +114,10 @@ streamlit run app.py
 
 ## Screenshots
 ### Main Interface
-![Main Interface](Main_Interface.png)
+![Main Interface](Main-Interface.png)
 
 ### Prediction Output
-![Prediction Output](Prediction_Output.png)
+![Prediction Output](Prediction-Output.png)
 
 
 ## Results
